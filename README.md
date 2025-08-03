@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Tim
+Hi My name is Tim
 
 ![snake gif](https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
