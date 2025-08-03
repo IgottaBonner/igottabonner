@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Tim
 Hi My name is Tim
+<h1 align="center">Hi 👋, I'm Tim</h1>
 
 ![snake gif](https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
