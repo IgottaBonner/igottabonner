@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/igottabonner/snake-gen/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/igottabonner/snake-gen/blob/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **IgottaBonner/igottabonner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
