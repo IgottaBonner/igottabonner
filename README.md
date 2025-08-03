@@ -1,4 +1,4 @@
-<--! ## Hi there 👋 I'm Tim -->
+<!-- ## Hi there 👋 I'm Tim -->
 
 
 <h1 align="center">Hi there 
