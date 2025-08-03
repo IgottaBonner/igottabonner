@@ -3,7 +3,7 @@ Hi My name is Tim
 <h1 align="center">Hi 👋, I'm Tim</h1>
 
 ![snake gif](https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg)
-
+![hand gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
 <h1 align="center">Hi there ![hand gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Tim</h1>
