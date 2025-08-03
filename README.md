@@ -1,9 +1,4 @@
-## Hi there 👋 I'm Tim
-Hi My name is Tim
-<h1 align="center">Hi 👋, I'm Tim</h1>
-
-![snake gif](https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg)
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<--! ## Hi there 👋 I'm Tim -->
 
 
 <h1 align="center">Hi there 
@@ -11,6 +6,7 @@ Hi My name is Tim
   I'm Tim</h1>
 <h3 align="center">A passionate frontend / backend developer </h3>
 
+![](https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
